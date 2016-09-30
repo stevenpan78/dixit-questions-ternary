@@ -1,0 +1,1 @@
+use ternary in javascript
